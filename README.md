@@ -1,4 +1,5 @@
 Fire-Thumbnail
 ==============
 
-create the thumbnail.
+```create the thumbnail.
+```
